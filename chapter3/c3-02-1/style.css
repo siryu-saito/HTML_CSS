@@ -9,11 +9,12 @@ html {
 }
 
 body {
-  background-color: #fffeee;
+  background-image: url(img/IMG_3468.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
-  color: #0bd;
   font-size: 2rem;
   font-family: serif;
 }
