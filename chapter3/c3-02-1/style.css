@@ -4,12 +4,18 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 100%;
+}
+
 body {
   background-color: #fffeee;
 }
 
 h1 {
   color: #0bd;
+  font-size: 2rem;
+  font-family: serif;
 }
 
 p {
