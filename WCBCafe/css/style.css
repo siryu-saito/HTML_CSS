@@ -22,6 +22,22 @@ body {
   color: #432;
 }
 
+.big-bg {
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+#home {
+  background-image: url(../images/main-bg.jpg),linear-gradient(#c9ffbf, #ffafbd);
+  background-blend-mode: luminosity;
+  min-height: 100vh;
+}
+
+#home .page-title {
+  text-transform: none;
+}
+
 /* page-header */
 .page-header {
   display: flex;
