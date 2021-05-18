@@ -294,6 +294,28 @@ input[type="submit"] {
   line-height: 1;
 }
 
+/* 店舗情報ー地図 */
+#location {
+  padding: 4% 0;
+}
+
+#location .wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.location-info {
+  width: 22%;
+}
+
+.location-info p {
+  padding: 12px 18px;
+}
+
+.location-map {
+  width: 74%;
+}
+
 /* モバイル用 */
 @media (max-width: 600px) {
   /* menu-top */
